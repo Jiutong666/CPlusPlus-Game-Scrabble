@@ -1,0 +1,79 @@
+Welcome to Scrabble!
+--------------------
+Menu
+----
+1. New Game
+2. Load Game
+3. Credits (Show student information)
+4. game settings
+5. Quit
+
+> The status of opening the enhanced version is: false
+Enter 1 to open the enhanced version
+Enter 0 to close the enhanced version.
+Please enter a number between 0 and 1.
+> Successfully opened the enhanced version
+Now reading word thesaurus, please wait a moment...
+Word thesaurus reading completed.
+
+Menu
+----
+1. New Game
+2. Load Game
+3. Credits (Show student information)
+4. game settings
+5. Quit
+
+> 
+Enter the filename from which load a game.
+> 
+Scrabble game successfully loaded
+
+Q, it's your turn
+Score for Q: 0
+Score for W: 0
+Score for E: 0
+Score for R: 0
+
+    0   1   2   3   4   5   6   7   8   9   10  11  12  13  14 
+  -------------------------------------------------------------
+A |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+B |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+C |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+D |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+E |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+F |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+G |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+H |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+I |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+J |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+K |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+L |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+M |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+N |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+O |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+
+Your hand is
+Z-10 A-1 A-1 C-3 D-2 D-2 D-2 
+
+> place <tile> at <position>
+	place the tile(s) in your hand onto the board to form a word
+
+place Done
+	done placing tiles for the current turn
+
+pass
+	 pass your turn
+
+replace <tile>
+	replace one tile in your hand then continue with the other player's turn
+
+save
+	 save the game to a file
+
+^Z
+	quit the game
+
+> 
+
+Goodbye

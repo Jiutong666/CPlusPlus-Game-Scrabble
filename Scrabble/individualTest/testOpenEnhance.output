@@ -1,0 +1,33 @@
+Welcome to Scrabble!
+--------------------
+Menu
+----
+1. New Game
+2. Load Game
+3. Credits (Show student information)
+4. game settings
+5. Quit
+
+> The status of opening the enhanced version is: false
+Enter 1 to open the enhanced version
+Enter 0 to close the enhanced version.
+Please enter a number between 0 and 1.
+> Successfully opened the enhanced version
+Now reading word thesaurus, please wait a moment...
+Word thesaurus reading completed.
+
+Menu
+----
+1. New Game
+2. Load Game
+3. Credits (Show student information)
+4. game settings
+5. Quit
+
+> The status of opening the enhanced version is: true
+Enter 1 to open the enhanced version
+Enter 0 to close the enhanced version.
+Please enter a number between 0 and 1.
+> 
+
+Goodbye
