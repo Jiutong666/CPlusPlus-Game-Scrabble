@@ -1,1 +1,2 @@
 # Scrabble
+A board game 
